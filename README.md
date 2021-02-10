@@ -13,6 +13,10 @@
 
 ### 📊 Data Analysis: [![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Jupyter](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
+
+---
+
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://star-crab.tistory.com/)](https://star-crab.tistory.com/)
