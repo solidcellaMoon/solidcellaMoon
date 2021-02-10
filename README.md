@@ -5,7 +5,7 @@
 - Interested in **Data Analysis using Python**
 
 
-## Tech Stack 💬
+## Tech Stack 🛠
 
 * **Computer Science** 💻 
 [![c](http://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
