@@ -1,8 +1,7 @@
 # Hi there 👋
 
 - Major in [**Computer Science and Engineering**](http://cse.ewha.ac.kr/)
-- studying for **CS and Game Dev**
-- Interested in **Data Analysis using Python**
+- Studying for **CS and Game Dev** & Interested in **Data Analysis using Python**
 
 ---
 
