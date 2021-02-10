@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- Major in [Computer Science and Engineering](http://cms.ewha.ac.kr/user/indexMain.action?siteId=cseeng)
+- Major in [**Computer Science and Engineering**](http://cms.ewha.ac.kr/user/indexMain.action?siteId=cseeng)
 - studying for **CS and Game Dev**
 - Interested in **Data Analysis using Python**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=solidcellaMoon&show_icons=true&theme=flag-india&hide=issues&count_private=true)](https://github-readme-stats.vercel.app/api?username=solidcellaMoon&show_icons=true&theme=flag-india&hide=issues&count_private=true)
 
 ## Tech Stack 🛠
 
@@ -31,5 +32,6 @@
 
 ## Tech blog & Contact 💬
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://star-crab.tistory.com/)](https://star-crab.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://star-crab.tistory.com/)](https://star-crab.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
