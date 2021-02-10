@@ -2,10 +2,14 @@
   
 ## Hi there 👋
 
+</div>
+
 - Major in [**Computer Science and Engineering**](http://cse.ewha.ac.kr/)
 - studying for **CS and Game Dev**
 - Interested in **Data Analysis using Python**
   
+<div align=center>
+ 
 ## Tech Stack 🛠
 
 ### 💻 Computer Science: [![c](http://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) [![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B) [![Java](http://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)](http://img.shields.io/badge/Java-007396?style=flat-square&logo=Java) [![PHP](http://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](http://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) [![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
