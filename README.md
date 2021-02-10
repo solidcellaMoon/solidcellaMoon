@@ -1,17 +1,16 @@
 <div align=center>
   
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
-  
-</div>
+ 
   
 ## Hi there 👋
 
-- Major in [**Computer Science and Engineering**](http://cse.ewha.ac.kr/)
-- studying for **CS and Game Dev**
-- Interested in **Data Analysis using Python**
+Major in [**Computer Science and Engineering**](http://cse.ewha.ac.kr/)
+
+studying for **CS and Game Dev**
+
+Interested in **Data Analysis using Python**
   
- 
-<div align=center>
  
 ## Tech Stack 🛠
 
