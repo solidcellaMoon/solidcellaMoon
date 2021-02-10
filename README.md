@@ -18,6 +18,6 @@
 
 ---
 
-#### 💬 Tech blog & Contact - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://star-crab.tistory.com/)](https://star-crab.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
+#### Tech blog & Contact 💬 - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://star-crab.tistory.com/)](https://star-crab.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
 
 </div>
