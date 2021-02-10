@@ -4,6 +4,8 @@
 - studying for **CS and Game Dev**
 - Interested in **Data Analysis using Python**
 
+<div align=center>
+  
 ## Tech Stack 🛠
 
 * 💻 **Computer Science:**
@@ -24,9 +26,6 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 [![Jupyter](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-
-
-<div align=center>
 
 ## Tech blog & Contact 💬
   
