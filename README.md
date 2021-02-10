@@ -14,8 +14,6 @@
 
 ### 📊 Data Analysis - [![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Jupyter](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](http://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
----
-
-### 📫 Contact - [![Gmail Badge](https://img.shields.io/badge/solidcella@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
+### 📫 Contact - [![Gmail Badge](https://img.shields.io/badge/solidcella@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidcella@gmail.com)](mailto:solidcella@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsolidcellaMoon&count_bg=%23D7C0A7&title_bg=%237A7C88&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/solidcellaMoon)
 
 </div>
