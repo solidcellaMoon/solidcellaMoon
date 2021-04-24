@@ -148,7 +148,7 @@
 
 - 컴퓨터공학 전공 과목으로 클라우드 컴퓨팅 수업을 수강, A+ 학점으로 이수
 - 클라우드 및 Hadoop 생태계, 병렬 프로그래밍에 대해 공부
-- **Github 저장소: **[[클릭]](https://github.com/solidcellaMoon/studynote/tree/master/%EA%B3%BC%EC%A0%9C/Cloud%20Computing)
+- **Github 저장소: ** [[클릭]](https://github.com/solidcellaMoon/studynote/tree/master/%EA%B3%BC%EC%A0%9C/Cloud%20Computing)
 
 ### [프로그래밍 내역]
 
