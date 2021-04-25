@@ -107,7 +107,7 @@
 - 동아리에서 주관한 교내 게임잼에 프로그래밍 직군으로 참가
 - 총 5인팀에서 프로그래머로서 게임의 콘텐츠 개발
 - 최종 3위로 우수상 수상
-- **Github 저장소:** [[클릭]](https://github.com/solidcellaMoon/HalBaeDDO-MaKINGJam_Dream)
+- **Github 저장소:** [[클릭]](https://github.com/solidcellaMoon/HalBaeDDO-MaKINGJam)
 
 ### [프로그래밍 내역]
 
